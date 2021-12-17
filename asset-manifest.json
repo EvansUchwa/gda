@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffbb5c82.chunk.css",
-    "main.js": "/static/js/main.1a5b7a0e.chunk.js",
-    "main.js.map": "/static/js/main.1a5b7a0e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e6df75c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e6df75c.js.map",
-    "static/js/2.4f9b276a.chunk.js": "/static/js/2.4f9b276a.chunk.js",
-    "static/js/2.4f9b276a.chunk.js.map": "/static/js/2.4f9b276a.chunk.js.map",
-    "static/js/3.c39445af.chunk.js": "/static/js/3.c39445af.chunk.js",
-    "static/js/3.c39445af.chunk.js.map": "/static/js/3.c39445af.chunk.js.map",
+    "main.css": "/static/css/main.cb41f3b7.chunk.css",
+    "main.js": "/static/js/main.42c1ba74.chunk.js",
+    "main.js.map": "/static/js/main.42c1ba74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.828927f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.828927f8.js.map",
+    "static/js/2.2917a910.chunk.js": "/static/js/2.2917a910.chunk.js",
+    "static/js/2.2917a910.chunk.js.map": "/static/js/2.2917a910.chunk.js.map",
+    "static/js/3.baec206e.chunk.js": "/static/js/3.baec206e.chunk.js",
+    "static/js/3.baec206e.chunk.js.map": "/static/js/3.baec206e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ffbb5c82.chunk.css.map": "/static/css/main.ffbb5c82.chunk.css.map",
-    "static/js/2.4f9b276a.chunk.js.LICENSE.txt": "/static/js/2.4f9b276a.chunk.js.LICENSE.txt",
+    "static/css/main.cb41f3b7.chunk.css.map": "/static/css/main.cb41f3b7.chunk.css.map",
+    "static/js/2.2917a910.chunk.js.LICENSE.txt": "/static/js/2.2917a910.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.a0df7aad.png",
     "static/media/2.png": "/static/media/2.2ba7ae71.png",
     "static/media/3.png": "/static/media/3.e9b65bb2.png",
     "static/media/4.png": "/static/media/4.04feb2b6.png",
+    "static/media/404.svg": "/static/media/404.dd1b5536.svg",
     "static/media/5.png": "/static/media/5.9844b011.png",
     "static/media/app.css": "/static/media/Poppins-Light.f41b63c0.ttf",
     "static/media/annonces1.svg": "/static/media/annonces1.70fd9ece.svg",
@@ -30,9 +31,9 @@
     "static/media/worker1.svg": "/static/media/worker1.7c5b41d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e6df75c.js",
-    "static/js/2.4f9b276a.chunk.js",
-    "static/css/main.ffbb5c82.chunk.css",
-    "static/js/main.1a5b7a0e.chunk.js"
+    "static/js/runtime-main.828927f8.js",
+    "static/js/2.2917a910.chunk.js",
+    "static/css/main.cb41f3b7.chunk.css",
+    "static/js/main.42c1ba74.chunk.js"
   ]
 }
